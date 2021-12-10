@@ -1,4 +1,4 @@
-### Hello There! I am Manzeel Uprety 👋😄
+### Manzeel Uprety 👋😄
 
 
 <a href='https://www.linkedin.com/in/mnzel/' target='_blank' rel='noopener' rel='noreferrer'>
@@ -6,3 +6,5 @@
 </a>
 </br>
 </br>
+
+<code>I am a QA Engineer. With over 8 years of hands on experience, i help deliver products with the highest quality.</code>
